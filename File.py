@@ -1,1 +1,1 @@
-print("Hello java")
+print("Hello Word")
